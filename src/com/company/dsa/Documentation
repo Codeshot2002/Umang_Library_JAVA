@@ -24,3 +24,9 @@ Functions
 
 8) print() -> This wil print the Udictionary in [Key = 1, value = 10] format.
 
+---EXAMPLE OF A CODE---
+Udictionary obj = new Udictionary();
+obj.add("Umang",100);
+obj.print();
+
+output :- [Key = "Umang",Value = 100]
