@@ -10,4 +10,6 @@ a iterator, then get a entry set out of it and then shove it up your ass to get 
 So this gave me inspiration to create my own datastructure inspired from python.... THE DICTIONARY but in java, so I named it uDictionary starting with
 my intital hehe xD
 
+Feel free to add new improvements, features or data structure into this repo :)
+
 THE END...
