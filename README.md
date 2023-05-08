@@ -1,6 +1,6 @@
 # Umang_Library_JAVA
 This is a git repo where I create my own data structure which very easy to use :-
-1) Dictionary in java
+1) Dictionary in java (EASY TO USE & ELIMINATE THE USE OF ITERATOR)
 
 ----Backstory----
 One day was just solving questions on leetcode where I came across some questions of maps in which you were supposed to add some key value pairs
