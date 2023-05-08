@@ -1,5 +1,5 @@
 # Umang_Library_JAVA
-This is a git repo where I create my own data structure which very easy to use :-
+This is a git repo where I create my own data structure which is very easy to use :-
 1) Dictionary in java (EASY TO USE & ELIMINATE THE USE OF ITERATOR)
 
 ----Backstory----
