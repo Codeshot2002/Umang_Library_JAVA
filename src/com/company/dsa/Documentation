@@ -1,1 +1,26 @@
+---------UDictionary--------
+Functions 
+1) add(Key, Value) -> This is used add a key value pair into your Udictionary.
+
+2) --Remove---
+   -> remove() -> This removes the last pair from the Udictionary.
+   -> remove(key) -> This removes the pair with the matching key from the Udictionary.
+   -> remove(index) -> This removes the pair at the index from the Udictionary.
+   
+3) --Get--
+   -> get(Key) -> This returns the key value pair from the Udictionary.
+   -> get(index) -> This returns the key value pair at the index from the Udictionary.
+   -> getAllKeys(value) -> This returns all the keys in a list containing value same as passed value.
+   -> getKey(value) -> This returns the key of the value passed.
+   -> getValue(key) -> This returns the value of the key passed.
+   
+4) isEmpty() -> THis returns boolean value if the Udictionary is empty or not.
+
+5) contains(key) -> This returns boolean value if the Udictionary contains the key or not.
+
+6) size() -> Returns the size of the Udictionary.
+
+7) log(true or false) -> this will turn on or off the logs of adding, removing values in the Udictionary.
+
+8) print() -> This wil print the Udictionary in [Key = 1, value = 10] format.
 
